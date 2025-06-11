@@ -1,5 +1,3 @@
-# Criar arquivos HTML, CSS e JS básicos para o site
-html_content = """
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
